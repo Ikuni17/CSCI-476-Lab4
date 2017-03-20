@@ -72,6 +72,5 @@ public class scannerfinder {
                 System.out.printf("%s%n", ipAddr);
             }
         }
-
     }
 }
